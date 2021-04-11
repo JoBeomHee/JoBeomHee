@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoBeomHee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-👋 Hello My name is **BeomHee**, I am a developer working at MireroSystem.
+👋 Hello My name is **BeomHee**:simple_smile:, I am a developer working at MireroSystem.
 
 My major is Computer Science📚. I am currently working for a semiconductor software company, and my main programming is **C#** and **WPF**.
 
