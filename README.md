@@ -5,7 +5,7 @@
 My major is Computer Science📚. I am currently working for a semiconductor software company, and my main programming is **C#** and **WPF**.
 
 
-💜 Career
+### **💜 Career**
 | **Type**   |      **Dates**      |  **Contents** |  **Organization** |
 |:----------:|:-------------:|:------:|:------:|
 | **🎓 Education** |  2012.03 ~ 2018.02 | Department of Computer Science | Sunmoon University |
@@ -13,8 +13,10 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 | **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
 | **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
 
-🌀 Programming Languages
+### **🌀 Programming Languages**
 
+
+### **📬 Contacts**
 <a href="https://www.instagram.com/beombeomjojo/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
