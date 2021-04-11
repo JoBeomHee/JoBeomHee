@@ -23,7 +23,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 ### **📃 Database**
 <img src="https://img.shields.io/badge/Oracle11g-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red"/></a> <img src="https://img.shields.io/badge/MSSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue"/></a>
-### **👀 UI Tool**
+### **🛠 UI Tool**
 <img src="https://img.shields.io/badge/WinForms-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue"/></a> <img src="https://img.shields.io/badge/WPF-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue"/></a>
 
 ### **📬 Contacts**
@@ -38,6 +38,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-### **📬 My Github Status**
+### **📊 My Github Status**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoBeomHee&show_icons=true&theme=radical)
