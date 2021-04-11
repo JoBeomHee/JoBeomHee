@@ -5,6 +5,7 @@
 My major is Computer Science📚. I am currently working for a semiconductor software company, and my main programming is **C#** and **WPF**.
 
 
+
 ### **💜 Career**
 | **Type**   |      **Dates**      |  **Contents** |  **Organization** |
 |:----------:|:-------------:|:------:|:------:|
@@ -13,8 +14,10 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 | **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
 | **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
 
+
 ### **🌀 Programming Languages**
 
+https://img.shields.io/badge/C#-★★★★☆--STAR-red
 
 ### **📬 Contacts**
 <a href="https://www.instagram.com/beombeomjojo/">
