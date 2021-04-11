@@ -13,3 +13,15 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 | **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
 | **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
 
+🌀 Programming Languages
+
+<a href="https://www.instagram.com/beombeomjojo/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://afsdzvcx123.tistory.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
