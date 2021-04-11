@@ -1,16 +1,22 @@
-### Hi there 👋
+# 범희 (BeomHee Jo)
+* **1993.04.24 (Male)**
+* **(09.03 ~ 12.02) 유신고등학교 이과 졸업**
+* **(12.03 ~ 18.02) 선문대학교 컴퓨터공학 학사 졸업**
 
-<!--
-**JoBeomHee/JoBeomHee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work Experience 👋
+* **(16.01 ~ 16.09) - 비트교육센터 윈도우 전문가 과정 2급 수료**
+* **(17.10 ~ 20.10) - Winforsys 근무**
+* **(21.02 ~ ing) - mirero 재직중**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Skill 👀
+* **Programming Language**
+  * **C#** ★★★★☆
+  * **SQL** ★★★☆☆
+  * **Java** ★★☆☆☆
+  * **C,C++** ★★☆☆☆
+* **DataBase**
+  * **Oracle 11g**
+  * **MSSQL**
+* **UI**
+  * **WPF**(Windows Presentation Foundation)
+  * **Windows Forms**
