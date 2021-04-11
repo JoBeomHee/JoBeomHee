@@ -17,7 +17,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 ### **🌀 Programming Languages**
 
-https://img.shields.io/badge/C#-★★★★☆--STAR-red
 
 ### **📬 Contacts**
 <a href="https://www.instagram.com/beombeomjojo/">
