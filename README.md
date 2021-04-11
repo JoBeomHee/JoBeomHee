@@ -17,6 +17,12 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 ### **🌀 Programming Languages**
 
+<img src="https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue"/></a> <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange"/></a> <img src="https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-brightgreen"/></a>
+
+### **🌀 Database**
+<img src="https://img.shields.io/badge/Oracle11g-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red"/></a> <img src="https://img.shields.io/badge/MSSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue"/></a>
+### **🌀 UI Tool**
+<img src="https://img.shields.io/badge/WinForms-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue"/></a> <img src="https://img.shields.io/badge/WPF-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue"/></a>
 
 ### **📬 Contacts**
 <a href="https://www.instagram.com/beombeomjojo/">
