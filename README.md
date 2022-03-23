@@ -6,7 +6,7 @@
 
 My major is Computer Science📚. I am currently working for a semiconductor software company, and my main programming is **C#** and **WPF**.
 
-
+<br/>
 
 ### **💜 Career**
 | **Type**   |      **Dates**      |  **Contents** |  **Organization** |
@@ -16,15 +16,24 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 | **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
 | **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
 
+<br/>
 
 ### **🌀 Programming Languages**
 
 <img src="https://img.shields.io/badge/C%23-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue"/></a> <img src="https://img.shields.io/badge/SQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-orange"/></a> <img src="https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%86%E2%98%86%E2%98%86-brightgreen"/></a>
 
+<br/>
+
 ### **📃 Database**
 <img src="https://img.shields.io/badge/Oracle11g-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-red"/></a> <img src="https://img.shields.io/badge/MSSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue"/></a>
+
+<br/>
+
 ### **🛠 UI Tool**
 <img src="https://img.shields.io/badge/WinForms-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-blue"/></a> <img src="https://img.shields.io/badge/WPF-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-blue"/></a>
+
+<br/>
+
 
 ### **📬 Contacts**
 <a href="https://www.instagram.com/beombeomjojo/">
@@ -38,6 +47,12 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<br/>
+
+
 ### **📊 My Github Status**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoBeomHee&show_icons=true&theme=radical)
+
+<br/>
+
