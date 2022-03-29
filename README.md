@@ -23,7 +23,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <p align="left">
 
-  ### **Programming Language**  
+  ### **📚 Language**  
   <!-- Language -->
   <a href="https://docs.microsoft.com/ko-kr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
@@ -37,7 +37,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
     
-  ### **Database**  
+  ### **💾 Database**  
   <!-- DB -->
   <a href="https://www.oracle.com/kr/index.html">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -55,7 +55,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   
-  ### **DeepLearning**
+  ### **🍗 DeepLearning**
   <!-- DeepLearning -->
   <a href="https://www.tensorflow.org/?hl=ko">
     <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
@@ -65,7 +65,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
   </a>
   
-  ### **MSA(Micro Service Architecture)**
+  ### **🎋 MSA(Micro Service Architecture)**
   <!-- Skill -->
   <a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
@@ -79,7 +79,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
     <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=Google&logoColor=white">
   </a>
   
-  ### **Configuration Management**
+  ### **🥅 Version Control**
   <!-- configuration management -->
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=GitHub&logoColor=#181717">
@@ -97,7 +97,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
     <img height="28" width="80" src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=#4A154B">
   </a>
   
-  ### **Developer Tools & Component**
+  ### **💻 IDEs/Editors**
   <!-- Tools -->
   <a href="https://visualstudio.microsoft.com/ko/">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
