@@ -76,7 +76,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   </a>
     
   <a href="https://grpc.io/">
-    <img src="https://img.shields.io/badge/gRPC-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+    <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=Google&logoColor=white">
   </a>
   
   ### **Configuration Management**
@@ -92,6 +92,10 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   <a href="https://about.gitlab.com/">
     <img src="https://img.shields.io/badge/GitLab-gold.svg?style=for-the-badge&logo=GitLab&logoColor=#FCA121">
   </a>
+    
+  <a href="https://slack.com/intl/ko-kr/">
+    <img height="28" width="80" src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=#4A154B">
+  </a>
   
   ### **Developer Tools & Component**
   <!-- Tools -->
@@ -102,7 +106,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
   <a href="https://www.devexpress.com/">
-    <img height="28" width="100" src="https://img.shields.io/badge/DevExpress-green?style=flat-square&logo=DevExpress&logoColor=#FF7200"/></a> <br/>
+    <img height="28" width="120" src="https://img.shields.io/badge/DevExpress-green?style=flat-square&logo=DevExpress&logoColor=#FF7200"/></a> <br/>
   </a>
   <br>
  
