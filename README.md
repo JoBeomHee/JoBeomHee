@@ -25,7 +25,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
   ### **Programming Language**  
   <!-- Language -->
-  <a href="https://https://docs.microsoft.com/ko-kr/dotnet/csharp/">
+  <a href="https://docs.microsoft.com/ko-kr/dotnet/csharp/">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
   
