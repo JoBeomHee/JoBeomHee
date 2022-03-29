@@ -70,6 +70,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   </a>
   
   <br>
+  <br>
 
 <h1 align="left"> 📊 My Github Status: </h1>
 
