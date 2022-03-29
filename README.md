@@ -36,8 +36,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   <a href="https://www.java.com/ko/">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   </a>
-  
-  <br>
     
   ### **Database**  
   <!-- DB -->
@@ -53,8 +51,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   </a>
   
-  <br>
-  
   ### **DeepLearning**
   <!-- DeepLearning -->
   <a href="https://www.tensorflow.org/?hl=ko">
@@ -64,8 +60,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   <a href="https://www.tensorflow.org/?hl=ko">
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
   </a>
-    
-  <br/>
   
   ### **MSA(Micro Service Architecture)**
   <!-- Skill -->
@@ -76,8 +70,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   <a href="https://www.rabbitmq.com/">
     <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
   </a>
-  
-  <br>
   
   ### **Configuration Management**
   <!-- configuration management -->
@@ -92,8 +84,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   <a href="https://about.gitlab.com/">
     <img src="https://img.shields.io/badge/GitLab-gold.svg?style=for-the-badge&logo=GitLab&logoColor=#FCA121">
   </a>
-  
-  <br>
   
   ### **Developer Tools & Component**
   <!-- Tools -->
