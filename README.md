@@ -70,6 +70,24 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   </a>
   
   <br>
+  
+  <!-- Tools -->
+  <a href="https://https://visualstudio.microsoft.com/ko/">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://www.devexpress.com/">
+    <img height="28" width="100" src="https://img.shields.io/badge/DevExpress-green?style=flat-square&logo=DevExpress&logoColor=#FF7200"/></a> <br/>
+  </a>
+  <br>
+ 
+</p>
+
+<br/>
+  
+  <br>
   <br>
 
 <h1 align="left"> 📊 My Github Status: </h1>
