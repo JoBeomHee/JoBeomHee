@@ -8,7 +8,8 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
-## **💜 Career**
+<h1 align="left"> 💜 Career: </h1>
+
 | **Type**   |      **Dates**      |  **Contents** |  **Organization** |
 |:----------:|:-------------:|:------:|:------:|
 | **🎓 Education** |  2012.03 ~ 2018.02 | Department of Computer Science | Sunmoon University |
