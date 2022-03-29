@@ -99,7 +99,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   
   ### **Developer Tools & Component**
   <!-- Tools -->
-  <a href="https://https://visualstudio.microsoft.com/ko/">
+  <a href="https://visualstudio.microsoft.com/ko/">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   </a>
   <a href="https://code.visualstudio.com/">
