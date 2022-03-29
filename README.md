@@ -74,6 +74,10 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   <a href="https://www.rabbitmq.com/">
     <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
   </a>
+    
+  <a href="https://grpc.io/">
+    <img src="https://img.shields.io/badge/gRPC-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  </a>
   
   ### **Configuration Management**
   <!-- configuration management -->
