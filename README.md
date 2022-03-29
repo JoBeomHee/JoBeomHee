@@ -80,3 +80,4 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&rotate=360)
