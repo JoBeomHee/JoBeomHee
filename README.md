@@ -19,34 +19,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
-<h1 align="left"> 📊 My Github Status: </h1>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoBeomHee&show_icons=true&theme=radical)
-
-<br/>
-
-<h1 align="left"> 💜 Career 💜 </h1>
-
-| **Type**   |      **Dates**      |  **Contents** |  **Organization** |
-|:----------:|:-------------:|:------:|:------:|
-| **🎓 Education** |  2012.03 ~ 2018.02 | Department of Computer Science | Sunmoon University |
-| **External activites** |    2016.01 ~ 2016.09   |   Windows Programmer Level 2  | Bit Education |
-| **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
-| **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
-
-<br/>
-
-<h1 align="left"> 📃 Project 📃 </h1>
-
-| **Type**   |      **Dates**      |  **Contents** |  **Organization** |
-|:----------:|:-------------:|:------:|:------:|
-| **🎓 Education** |  2012.03 ~ 2018.02 | Department of Computer Science | Sunmoon University |
-| **External activites** |    2016.01 ~ 2016.09   |   Windows Programmer Level 2  | Bit Education |
-| **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
-| **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
-
-<br/>
-
 <h1 align="left"> 🛠 Skills & Tools 🛠 </h1>
 
 <p align="left">
@@ -99,20 +71,31 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   
   <br>
 
-## **🛠 Tech Stack 🛠**
-<img src="https://img.shields.io/badge/Csharp-blue?logo=C Sharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TensorFlow-yellow?style=flat-square&logo=TensorFlow&logoColor=FF6F00"/></a>
-<img src="https://img.shields.io/badge/Keras-red?style=flat-square&logo=Keras&logoColor=#D00000"/></a>
-<img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=#F80000"/></a> <br/>
-<img src="https://img.shields.io/badge/MySQL-yellow?style=flat-square&logo=MySQL&logoColor=#4479A1"/></a>
-<img src="https://img.shields.io/badge/Docker-Black?style=flat-square&logo=Docker&logoColor=#2496ED"/></a>
-<img src="https://img.shields.io/badge/Git-blue?style=flat-square&logo=Git&logoColor=#F05032"/></a>
-<img src="https://img.shields.io/badge/GitHub-blue?style=flat-square&logo=GitHub&logoColor=#181717"/></a>
-<img src="https://img.shields.io/badge/GitLab-blue?style=flat-square&logo=GitLab&logoColor=#FCA121"/></a>
-<img src="https://img.shields.io/badge/DevExpress-green?style=flat-square&logo=DevExpress&logoColor=#FF7200"/></a> <br/>
-<img src="https://img.shields.io/badge/Visual Studio-purple?style=flat-square&logo=Visual Studio&logoColor=#5C2D91"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"/></a>
+<h1 align="left"> 📊 My Github Status: </h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoBeomHee&show_icons=true&theme=radical)
+
+<br/>
+
+<h1 align="left"> 💜 Career 💜 </h1>
+
+| **Type**   |      **Dates**      |  **Contents** |  **Organization** |
+|:----------:|:-------------:|:------:|:------:|
+| **🎓 Education** |  2012.03 ~ 2018.02 | Department of Computer Science | Sunmoon University |
+| **External activites** |    2016.01 ~ 2016.09   |   Windows Programmer Level 2  | Bit Education |
+| **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
+| **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
+
+<br/>
+
+<h1 align="left"> 📃 Project 📃 </h1>
+
+| **Type**   |      **Dates**      |  **Contents** |  **Organization** |
+|:----------:|:-------------:|:------:|:------:|
+| **🎓 Education** |  2012.03 ~ 2018.02 | Department of Computer Science | Sunmoon University |
+| **External activites** |    2016.01 ~ 2016.09   |   Windows Programmer Level 2  | Bit Education |
+| **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
+| **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
 
 <br/>
 
