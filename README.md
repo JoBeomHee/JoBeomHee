@@ -74,7 +74,9 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <h1 align="left"> 📊 My Github Status: </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoBeomHee&show_icons=true&theme=radical)
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=jobeomhee&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobeomhee&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 <br/>
 
@@ -99,10 +101,5 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 | **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
 
 <br/>
-
-### Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=jobeomhee&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobeomhee&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ![header](https://capsule-render.vercel.app/api?type=wave&section=footer&color=gradient)
