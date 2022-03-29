@@ -42,6 +42,10 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
   <a href="https://www.oracle.com/kr/index.html">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   </a>
+    
+  <a href="https://www.oracle.com/kr/index.html">
+    <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white">
+  </a>
   
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
