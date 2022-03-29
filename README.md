@@ -18,6 +18,58 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
+<h1 align="left"> 🔧 Skills & Tools: </h1>
+
+<p align="left">
+
+  <!-- Language -->
+  <a href="https://https://docs.microsoft.com/ko-kr/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a>
+  
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </a>
+  
+  <a href="https://www.java.com/ko/">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  
+  <br>
+  <!-- DB -->
+  <a href="https://www.oracle.com/kr/index.html">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  </a>
+  
+  <a href="https://www.mongodb.com/">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  </a>
+  
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  </a>
+  
+  <br>
+  
+  <!-- Skill -->
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  
+  <a href="https://www.tensorflow.org/?hl=ko">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </a>
+  
+  <a href="https://www.tensorflow.org/?hl=ko">
+    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+  </a>
+  
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white">
+  </a>
+  
+  <br>
+
 ## **🛠 Tech Stack 🛠**
 <img src="https://img.shields.io/badge/Csharp-blue?logo=C Sharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
