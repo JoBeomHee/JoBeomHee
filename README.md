@@ -114,7 +114,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
-<h1 align="left"> 📊 My Github Status: </h1>
+<h1 align="left"> 📊 My Github Status </h1>
 
 | Github Stats | Top Languages |
 | --- | --- |
