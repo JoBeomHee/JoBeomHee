@@ -25,7 +25,7 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
-<h1 align="left"> 💜 Career: </h1>
+<h1 align="left"> 💜 Career 💜 </h1>
 
 | **Type**   |      **Dates**      |  **Contents** |  **Organization** |
 |:----------:|:-------------:|:------:|:------:|
@@ -36,7 +36,18 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
-<h1 align="left"> 🔧 Skills & Tools: </h1>
+<h1 align="left"> 📃 Project 📃 </h1>
+
+| **Type**   |      **Dates**      |  **Contents** |  **Organization** |
+|:----------:|:-------------:|:------:|:------:|
+| **🎓 Education** |  2012.03 ~ 2018.02 | Department of Computer Science | Sunmoon University |
+| **External activites** |    2016.01 ~ 2016.09   |   Windows Programmer Level 2  | Bit Education |
+| **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
+| **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
+
+<br/>
+
+<h1 align="left"> 🛠 Skills & Tools 🛠 </h1>
 
 <p align="left">
 
@@ -102,20 +113,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 <img src="https://img.shields.io/badge/DevExpress-green?style=flat-square&logo=DevExpress&logoColor=#FF7200"/></a> <br/>
 <img src="https://img.shields.io/badge/Visual Studio-purple?style=flat-square&logo=Visual Studio&logoColor=#5C2D91"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=flat-square&logo=Visual Studio Code&logoColor=#007ACC"/></a>
-
-<br/>
-
-## **📬 Contacts**
-<a href="https://www.instagram.com/beombeomjojo/">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/alpox.dev/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://afsdzvcx123.tistory.com/">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 <br/>
 
