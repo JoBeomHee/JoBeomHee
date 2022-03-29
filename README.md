@@ -8,6 +8,12 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
+<h1 align="left"> 📊 My Github Status: </h1>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoBeomHee&show_icons=true&theme=radical)
+
+<br/>
+
 <h1 align="left"> 💜 Career: </h1>
 
 | **Type**   |      **Dates**      |  **Contents** |  **Organization** |
@@ -99,14 +105,6 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
-<br/>
-<br/>
-
-
-## **📊 My Github Status**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoBeomHee&show_icons=true&theme=radical)
 
 <br/>
 
