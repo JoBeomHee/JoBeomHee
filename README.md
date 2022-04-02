@@ -133,15 +133,4 @@ My major is Computer Science📚. I am currently working for a semiconductor sof
 
 <br/>
 
-<h1 align="left"> 📃 Project 📃 </h1>
-
-| **Type**   |      **Dates**      |  **Contents** |  **Organization** |
-|:----------:|:-------------:|:------:|:------:|
-| **🎓 Education** |  2012.03 ~ 2018.02 | Department of Computer Science | Sunmoon University |
-| **External activites** |    2016.01 ~ 2016.09   |   Windows Programmer Level 2  | Bit Education |
-| **🏢Employment** |    2017.10 ~ 2020.09   |   SW Engineer  | Winforsys |
-| **🏢Employment** |    2021.02 ~ ing   |   SW Engineer  | MireroSystem |
-
-<br/>
-
 ![header](https://capsule-render.vercel.app/api?type=wave&section=footer&color=gradient)
